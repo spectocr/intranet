@@ -15,9 +15,9 @@
   
   ## Usage 
     * Use this program by: use it how you want.
-  
-  ![alt text](assets/images/ss.png)
-  
+     
+  ![alt text](ss.png)
+ YouTube Demo: [https://youtu.be/PKIHC4DraU0]
   
   ## Credits
    * The following folks helped with this project: Cris Spector
